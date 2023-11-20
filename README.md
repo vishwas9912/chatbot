@@ -5,3 +5,6 @@ note this program can only generate the sequence of chat with the customer but c
 
 
 remember to replace the "YOUR API KEY" with your own API key
+
+
+you can run this on google collab, eclipse etc 
